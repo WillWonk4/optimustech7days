@@ -48,5 +48,43 @@ body{
     color: var(--cor-fonte-cinza);
     text-align: center;
     font-size: 20px;
-    width: 400;
+    font-weight: 400;
 }
+
+.metricas{
+    display:flex;
+    height: 288px;
+    margin-left: 280px;
+    align-items: center;
+    justify-content: space-evenly;
+    gap: 40px;
+
+}
+
+.metricas__metricas{
+    text-align: left;
+}
+
+.metrica__h2 {
+    color: var(--cor-vermelho);
+    width: 600px;
+    font-size: 60px;
+    font-weight: bold;
+    text-shadow: 1px 1px 1px var(--cor-vermelho);
+}
+
+.metrica__texto1{
+    color: var(--cor--preto);
+    font-weight: 500;
+    font-size: 18px;
+    margin-top: 20px; 
+    
+   
+}
+
+.metrica__texto2{
+    color: var(--cor-fonte-cinza);
+    font-weight: 400; 
+    margin-top: 10px;  
+}
+
