@@ -1,2 +1,2 @@
 # optimustech7days
-desafio, #7DaysOfCode da Alura, #feedback7DoC
+desafio, #7DaysOfCode da @alura-cursos, #feedback7DoC
