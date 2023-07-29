@@ -150,5 +150,46 @@ body{
     margin: 5px 20px 0px 0px;
 }
 
+.depoimentos{
+    background: rgba(195, 25, 25, 0.03);
+    margin: 96px 50px 96px 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items: center;
+    padding: 5em;
+    gap: 20px
+}
+.foto__colaborador{
+    width: 56px;
+    height: 56px;
+}
+
+.depoimentos__texto1 {
+    color: var(--cor-vermelho);
+    font-size: 14px;
+    font-weight: 600px;
+    text-shadow: 0.2px 0.2px 0.2px var(--cor-vermelho);
+}
+
+.depoimentos__depoimento{
+    font-size: 36px;
+    font-weight: 500px;
+    color: var(--cor--preto);
+    text-shadow: 0.3px 0.3px 0.3px var(--cor--preto);
+}
+
+.depoimentos__nome{
+    font-size: 16px;
+    font-weight: 500px;
+    color: var(--cor--preto);
+}
+
+.depoimentos__nome__profissao{
+    font-size: 14px;
+    font-weight: 400px;
+    color: var(--cor-fonte-cinza);
+}
+
 
 
